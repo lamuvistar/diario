@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜3
+tags: [about him]
 ---
 <div class=edge><span class=inn>VOL｜3</span></div>
 # 那时候太小了，看见光就以为是大海

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜2
+tags: [about him]
 ---
 <div class=edge><span class=inn>VOL｜2</span></div>
 # "When in Rome"

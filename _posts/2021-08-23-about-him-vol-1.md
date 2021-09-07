@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜1
+tags: [about him]
 ---
 <div class=edge><span class=inn>VOL｜1</span></div>
 # 很久很久以后，才意识到他是面镜子，借由他，成全了自己
