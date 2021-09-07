@@ -2,11 +2,11 @@
 layout: default
 title: 有关他 的日记 VOL｜3
 ---
-<h4 class=edge>{{ page.title }}</h4>
 <div class=edge><span class=inn>VOL｜3</span></div>
 # 那时候太小了，看见光就以为是大海
 # 哪知道那只是一潭死水 
 # 墨绿色的
+
 ## 2020.08.25 告别
 ### 那天经过广场的时候 我坐在他车后座 他对别人说 「燃烧我的卡路里」
 ### "歌本身挺好的，就是词太烂了"

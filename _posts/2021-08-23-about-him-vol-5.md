@@ -2,7 +2,6 @@
 layout: default
 title: 有关他 的日记 VOL｜5
 ---
-<h4 class=edge>{{ page.title }}</h4>
 <div class=edge><span class=inn>VOL｜5</span></div>
 # 大雪飘落在海面上 海面中央矗立一条废弃电线杆
 # 白茫茫一片

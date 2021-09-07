@@ -2,7 +2,6 @@
 layout: default
 title: 有关他 的日记 VOL｜2
 ---
-<h4 class=edge>{{ page.title }}</h4>
 <div class=edge><span class=inn>VOL｜2</span></div>
 # "When in Rome"
 # 越长，沉浸的能力越来越虚弱，灵魂飘离，悬挂在早已风化的教条上，抽离的现在远远望着抽离的过去，叹息。

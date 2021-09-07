@@ -3,9 +3,16 @@ layout: default
 title: 我的 日志
 ---
 <h2>{{ page.title }}</h2>
-<h4 class=edge>最新 日志</h4>
+<h4 class=edge>about him</h4>
 <ul>
 {% for post in site.posts %}
 <li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h4 class=edge>murmur</h4>
+<ul>
+{% for desperate in site.murmur %}
+<li>{{ desperate.date | date_to_string }} <a href="{{ site.baseurl }}{{ desperate.url }}">{{ desperate.title }}</a></li>
 {% endfor %}
 </ul>

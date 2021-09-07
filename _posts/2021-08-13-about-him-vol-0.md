@@ -2,7 +2,6 @@
 layout: default
 title: 有关他 的日记 VOL｜0
 ---
-<h4 class=edge>{{ page.title }}</h4>
 <div class=edge><span class=inn>VOL｜0</span></div>
 # 喜欢一个人的时候，觉得自己是健康洁净的，是可以生长的，是好的，希望记得有过像呼吸一样简单但笃定的心动
 

@@ -2,10 +2,10 @@
 layout: default
 title: 有关他 的日记 VOL｜4
 ---
-<h4 class=edge>{{ page.title }}</h4>
 <div class=edge><span class=inn>VOL｜4</span></div>
 # 在梦里，在窗外，在闭眼后的黑暗里，在独自一人时吸进肺的空气里，在浮动的沉默里
 # 唯独不在眼前
+
 ## 2020.09.20 post-
 ### 上午 辣肉泼面 又油又咸
 ### 中午 牛肉拌面加荷包蛋 比较咸
