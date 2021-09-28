@@ -263,6 +263,13 @@ table tr th, table tr td {
 
 table tr th {
  font-weight: bold;
-  background-color: #F0F0F0;
+ background-color: #F0F0F0;
 }
 
+h4.smitten{
+  color: grey;
+  font-size: 0.5em;
+  font-style: italic;
+  letter-spacing: 1.5em;
+  line-height: 200%;
+}
