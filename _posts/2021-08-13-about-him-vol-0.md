@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜0
+ver: VOL｜0
 tags: [about him]
 ---
 <div class=edge><span class=inn>VOL｜0</span></div>
@@ -44,4 +45,4 @@ tags: [about him]
 ### 我见他 第一眼 就很失落 之后 每一眼 都宛如第一眼
 ## 2020.08.22 nowhere
 ### 无可救药 无计可施地迷恋黑夜 如同那时候的我迷恋他 如同生夜以继日地迷恋死
-<h4 class=edge>{{ page.date | date_to_string }}</h4>
+<!-- <h4 class=edge>{{ page.date | date_to_string }}</h4> -->

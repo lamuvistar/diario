@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜3
+ver: VOL｜3
 tags: [about him]
 ---
-<div class=edge><span class=inn>VOL｜3</span></div>
+<!-- <div class=edge><span class=inn>VOL｜3</span></div> -->
 # 那时候太小了，看见光就以为是大海
 # 哪知道那只是一潭死水 
 # 墨绿色的
@@ -118,4 +119,4 @@ tags: [about him]
 ### 你喜欢就好
 
 ### 像含着一块冰
-<h4 class=edge>{{ page.date | date_to_string }}</h4>
+<!-- <h4 class=edge>{{ page.date | date_to_string }}</h4> -->

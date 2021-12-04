@@ -7,6 +7,8 @@
 <link rel="stylesheet" href="/diario/css/markdown_here.css" type="text/css" />
 </head>
 <body>
+<div class=edge><span class=inn>{{ page.ver }}</span></div>
 {{ content }}
+<h4 class=edge>{{ page.date | date_to_string }}</h4>
 </body>
 </html>

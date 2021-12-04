@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜4
+ver: VOL｜4
 tags: [about him]
 ---
-<div class=edge><span class=inn>VOL｜4</span></div>
+<!-- <div class=edge><span class=inn>VOL｜4</span></div> -->
 # 在梦里，在窗外，在闭眼后的黑暗里，在独自一人时吸进肺的空气里，在浮动的沉默里
 # 唯独不在眼前
 
@@ -170,4 +171,4 @@ tags: [about him]
 
 ### 他是谁
 ### 我却不知道了
-<h4 class=edge>{{ page.date | date_to_string }}</h4>
+<!-- <h4 class=edge>{{ page.date | date_to_string }}</h4> -->

@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜1
+ver: VOL｜1
 tags: [about him]
 ---
-<div class=edge><span class=inn>VOL｜1</span></div>
+<!-- <div class=edge><span class=inn>VOL｜1</span></div> -->
 # 很久很久以后，才意识到他是面镜子，借由他，成全了自己
 
 ## 2020.06.26 YU
@@ -108,4 +109,4 @@ tags: [about him]
 ### 他脸上的表情无色无味 几乎约等于是面无表情
 ### …………
 ### 想死 ><
-<h4 class=edge>{{ page.date | date_to_string }}</h4>
+<!-- <h4 class=edge>{{ page.date | date_to_string }}</h4> -->

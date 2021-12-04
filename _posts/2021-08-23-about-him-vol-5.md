@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 有关他 的日记 VOL｜5
+ver: VOL｜5
 tags: [about him]
 ---
-<div class=edge><span class=inn>VOL｜5</span></div>
+<!-- <div class=edge><span class=inn>VOL｜5</span></div> -->
 # 大雪飘落在海面上 海面中央矗立一条废弃电线杆
 # 白茫茫一片
 # 真干净
@@ -191,4 +192,4 @@ tags: [about him]
 ### I don’t have to see you right now~
 ### 之前是 我现在不见你也行
 ### 现在再听 已经成了 见不到你 也好
-<h4 class=edge>{{ page.date | date_to_string }}</h4>
+<!-- <h4 class=edge>{{ page.date | date_to_string }}</h4> -->
