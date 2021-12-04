@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 我的 日志
-date: {{ "now" | date: "%Y-%m-%d" }}
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
 ---
 <h2>{{ page.title }}</h2>
 <h4 class=smitten> You will kill me if you stop</h4>
@@ -15,9 +15,3 @@ date: {{ "now" | date: "%Y-%m-%d" }}
         {% endfor %}
     </ul>
 {% endfor %}
-{{ site.time | date: '%y' }}
-<h4 class=edge><{{ "now" | date: "%Y-%m-%d" }}/h4>
-<h4 class=edge>{{ site.time | date: '%y' }}</h4>
-
-
-
