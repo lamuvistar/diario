@@ -15,5 +15,9 @@ date: 2021-12-04
         {% endfor %}
     </ul>
 {% endfor %}
+{{ site.time | date: '%y' }}
+<h4 class=edge>{{ "now" | date: "%Y-%m-%d" }}</h4>
+<h4 class=edge>{{ site.time | date: '%y' }}</h4>
+
 
 
