@@ -10,8 +10,6 @@
 
 /* This is the overall wrapper, it should be treated as the `body` section. */
 .markdown-here-wrapper {
-font-weight: 100;
-font-family: 'Hiragino Sans';
 }
 
 /* To add site specific rules, you can use the `data-md-url` attribute that we
@@ -137,6 +135,8 @@ h1, h2, h3, h4, h5, h6, p{
   font-weight: bold;
   margin-left: 10% !important;
   margin-right: 10% !important;
+  font-weight: 100;
+  font-family: 'Hiragino Sans';
 }
 
 h1 {
