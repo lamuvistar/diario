@@ -158,16 +158,6 @@ h2 {
     border-bottom: 1px solid rgb(238, 238, 238);
 }
 
-h3 {
-  /* //font-size: 1.3em; */
-    color: rgb(114, 114, 114);
-    font-size: 12px;
-    font-weight: lighter !important;
-    letter-spacing: normal;    
-    margin: 0px 0px 1.2em ;
-    letter-spacing:0.4em;
-    line-height: 2.7em;
-}
 h3, p{
   /* //font-size: 1.3em; */
     color: rgb(114, 114, 114);
