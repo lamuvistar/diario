@@ -132,11 +132,11 @@ blockquote::before, blockquote::after, q::before, q::after {
 h1, h2, h3, h4, h5, h6, p{
   margin: 1.3em 0 1em;
   padding: 0;
-  font-weight: bold;
   margin-left: 10% !important;
   margin-right: 10% !important;
   font-weight: 100;
-  font-family: 'Hiragino Sans';
+  font-family: 'Hiragino Sans', 'Avenir Next','Arial', sans-serif;
+
 }
 
 h1 {
