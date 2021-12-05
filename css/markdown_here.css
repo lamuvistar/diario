@@ -130,7 +130,7 @@ blockquote::before, blockquote::after, q::before, q::after {
 }
 
 h1, h2, h3, h4, h5, h6, p{
-  margin: 1.3em 0 1em;
+  /* margin: 1.3em 0 1em; */
   padding: 0;
   margin-left: 10% !important;
   margin-right: 10% !important;
@@ -144,8 +144,8 @@ h1 {
   /* //border-bottom: 1px solid #ddd; */
     text-shadow: 0em 0em 0.1em lavenderblush;
     color: rgb(196, 196, 196);
-    font-size: 19px;
-    letter-spacing: 1px;
+    font-size: 1.6em;
+    letter-spacing: 0.24em;
     text-align: center;
     font-weight: lighter;
 }
@@ -156,17 +156,17 @@ h2 {
     font-size: 1.4em;
     font-style: italic;
     font-weight: bold;
-    margin: 1.3em 0px 1em;
+    margin: 1.3em 0em 1em;
     border-bottom: 1px solid rgb(238, 238, 238);
 }
 
 h3, p{
   /* //font-size: 1.3em; */
     color: rgb(114, 114, 114);
-    font-size: 12px;
-    font-weight: lighter !important;
-    letter-spacing: normal;    
-    margin: 0px 0px 1.2em ;
+    font-size: 0.75em;
+    /* font-weight: lighter !important; */
+    /* letter-spacing: normal;     */
+    margin: 0 0 1.2em 0 !important;
     letter-spacing:0.4em;
     line-height: 2.7em;
 }
@@ -199,11 +199,11 @@ img {
 h4 {
   /* //font-size: 1.2em !important; */
     color: rgb(236, 236, 236) !important;
-    font-size: 13px !important;
+    font-size: 0.8em !important;
     font-style: italic !important;
-    letter-spacing: 0.544px !important;
+    letter-spacing: 0.0418em !important;
   /* //background-color: rgb(255, 255, 255); */
-    margin: 0px 0px 1.2em;
+    margin: 0em 0em 1.2em;
     margin-left: auto !important;
     margin-right: auto !important;
 }
@@ -218,7 +218,7 @@ h5 {
 }
 
 .inn {
-    font-size: 10px;
+    font-size: 0.5em;
     color: rgb(255, 255, 255);
     background-color: rgb(214, 214, 214);
     /* //display: inline; */
