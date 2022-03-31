@@ -129,14 +129,13 @@ blockquote::before, blockquote::after, q::before, q::after {
   content: none;
 }
 
-h1, h2, h3, h4, h5, h6, p{
+h1, h2, h3, h4, h5, h6, p, .footnotes{
   /* margin: 1.3em 0 1em; */
   padding: 0;
   margin-left: 10% !important;
   margin-right: 10% !important;
   font-weight: 100;
   font-family: 'Hiragino Sans', 'Avenir Next','Arial', sans-serif;
-
 }
 
 h1 {
@@ -274,4 +273,13 @@ h4.smitten{
   font-style: italic !important;
   letter-spacing: 1.5em !important;
   line-height: 200% !important;
+}
+
+.footnotes{
+    color: rgb(114, 114, 114);
+    font-size: 0.5em;
+    font-weight: bold !important;
+    /* letter-spacing: normal;     */
+    letter-spacing:0.4em;
+    line-height: 2.7em;
 }
