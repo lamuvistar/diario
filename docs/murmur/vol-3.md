@@ -4,7 +4,7 @@ title: MURMUR VOL｜3
 ver: VOL｜3
 tags: [mur]
 ---
-<h4 class=edge>梦</h4>
+> 梦
 
 # 色身 是法器
 

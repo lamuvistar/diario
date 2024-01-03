@@ -4,9 +4,10 @@ title: MURMUR VOL｜5
 ver: VOL｜5
 tags: [mur]
 ---
-<h4 class=edge>Later</h4>
 
 # "此刻有谁在世上某处死，无缘无故在世上死，望着我。"
+
+> Later
 
 ## 作废
 在执意盘算死亡的时候 脚下有东西碎了 脆的碎 走过几步去了 总觉得不安 倒回去看 蹲下来盯了几秒 

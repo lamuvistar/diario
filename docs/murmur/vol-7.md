@@ -4,9 +4,9 @@ title: MURMUR VOL｜7
 ver: VOL｜7
 tags: [mur]
 ---
-<h4 class=edge>自欺欺人</h4>
 
 # 扬眉吐气 得偿所愿 死得其所 
+> 自欺欺人
 
 ## 2019.12.01 自欺欺人
 

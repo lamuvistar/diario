@@ -4,9 +4,8 @@ title: MURMUR VOL｜2
 ver: VOL｜2
 tags: [mur]
 ---
-<h4 class=edge>绪集</h4>
-
 # 它们从我身体表面漱啦啦翻起来 我用力想把它们剥下 最后是红的身体和血的手
+> 绪集
 
 _Principles of computer system design_ 里面很多话读起来像诗
 

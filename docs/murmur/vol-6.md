@@ -4,9 +4,9 @@ title: MURMUR VOL｜6
 ver: VOL｜6
 tags: [mur]
 ---
-<h4 class=edge>Paxons</h4>
 
 
+# Paxons
 > The Paxons realized that any protocol to achieve the progress condition must involve measuring the passage of time.[^12]
 
 [^12]: However, many centuries were to pass before a rigorous proof of this result was given.[Fischer et al. 1985]

@@ -4,9 +4,10 @@ title: MURMUR VOL｜4
 ver: VOL｜4
 tags: [mur]
 ---
-<h4 class=edge>No idea.</h4>
 
 # 他要的只是南墙倒 并不关心南墙后是否有光
+
+> No idea.
 
 无法再继续了  
 然后像怀念一个一起生活很久的人一样  
